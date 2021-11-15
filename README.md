@@ -11,7 +11,7 @@ Tecnologias
 - Typescript
 - Styled-Componensts
 
-O site se encontra em produção.
+[ATENÇÃO] O site se encontra em produção.
 - Criada a Home sem a adição de responsividade até o presente momento.
 - Criada a Nav sem a adição de responsividade até o presente momento.
 - Criada o footer sem a adição de responsividade até o presente momento.
